@@ -1,0 +1,7 @@
+Double Cheeseburger:             $4.00
+Mcspicy:                                   $5.30
+Double McSpicy:                     $6.90
+
+Hashbrown(Breakfast):                 $2.40
+Pancakes(Breakfast):                    $5.00
+BigBreakFast(Breakfast):             $8.00
